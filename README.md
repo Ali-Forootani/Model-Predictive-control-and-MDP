@@ -1,5 +1,8 @@
 # Model-Predictive-control-and-MDP
 
+This piece of code is related to my PhD thesis when I proposed theorerical approaches for the reservation in resource allocation problem for MDPs. The code is quite heavy to digest and 3 journal articles have  been published based on this procedure which I refer them at the end of this readme file. 
+
+
 The given code implements a dynamic programming algorithm for revenue optimization or booking decisions. Here is a breakdown of the code:
 
 1. Initialization: The code initializes variables, loads data from .mat files, and sets parameters such as lambda, mu, sample length, discount factor, and others.
