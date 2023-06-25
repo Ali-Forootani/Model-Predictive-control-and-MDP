@@ -82,6 +82,14 @@ Contributions to this code are welcome. If you find any bugs, issues, or have su
 
 For any questions or inquiries, please contact [aliforootani@ieee.org].
 
+## Articles
+`Forootani, Ali, Raffaele Iervolino, and Massimo Tipaldi. "Applying unweighted least‐squares based techniques to stochastic dynamic programming: theory and application." IET Control Theory & Applications 13.15 (2019): 2387-2398.
+
+Forootani, Ali, et al. "Allocating resources via price management systems: a dynamic programming-based approach." International Journal of Control 94.8 (2021): 2123-2143.
+
+Forootani, Ali, et al. "Approximate dynamic programming for stochastic resource allocation problems." IEEE/CAA Journal of Automatica Sinica 7.4 (2020): 975-990.
+`
+
 
 
 
